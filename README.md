@@ -25,6 +25,8 @@ The whole digital twin was created by streamlit python library with a few lines 
 
 <p align="center">
   <img src="Screenshot4.png" width=70% height=70%>
+
+
 ## How to use
 
 A conda environment must be created by installing the libraries in the requirement.txt file in this environment. In this file, the libraries of torch can be neglected for this example. After installing the libraries, in the terminal of that environment, you can run the command of streamlit applications like ```streamlit run ./app.py```.
